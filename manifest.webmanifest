@@ -1,9 +1,0 @@
-{
-  "name": "Bíblia Ave-Maria — Leitor",
-  "short_name": "Bíblia Ave-Maria",
-  "lang": "pt-BR",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f4f0e7",
-  "theme_color": "#183b32"
-}
